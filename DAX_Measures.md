@@ -60,7 +60,8 @@ Number of days of supply. Translates the abstract turnover ratio into actionable
 Potential Cash Released = [Avg. Inventory Value] * [Inventory Reduction % Value]
 ```
 Cash release simulation. A What-If analysis tool used to estimate the impact of inventory optimization on the company's liquidity and cash flow.
----------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------
 ## Total Revenue
 ```
 Total Revenue = SUMX(Fact_Sales, Fact_Sales[Quantity] * Fact_Sales[Unit Sales Price])
