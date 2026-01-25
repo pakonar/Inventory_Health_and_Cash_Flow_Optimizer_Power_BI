@@ -62,6 +62,7 @@ Potential Cash Released = [Avg. Inventory Value] * [Inventory Reduction % Value]
 Cash release simulation. A What-If analysis tool used to estimate the impact of inventory optimization on the company's liquidity and cash flow.
 
 -----------------------------------------------------------------------------------------------------------------------------
+### Wersja PL
 ## Total Revenue
 ```
 Total Revenue = SUMX(Fact_Sales, Fact_Sales[Quantity] * Fact_Sales[Unit Sales Price])
