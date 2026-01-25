@@ -48,44 +48,50 @@ RETURN
 RawTurnover * AnnualizationFactor
 ```
 Inventory turnover ratio adjusted to an annual scale. The annualization mechanism allows for a reliable comparison of logistical efficiency across different time grains (e.g., comparing a single month to a full year).
-##Days of Supply
+## Days of Supply
 ```
 Days of Supply = DIVIDE(365, [Inventory Turnover], 0)
+```
 
 Number of days of supply. Translates the abstract turnover ratio into actionable operational data regarding how long current stock levels will last at the current sales velocity.
 
-Potential Cash Released
+## Potential Cash Released
 ```
 Potential Cash Released = [Avg. Inventory Value] * [Inventory Reduction % Value]
+```
 Cash release simulation. A What-If analysis tool used to estimate the impact of inventory optimization on the company's liquidity and cash flow.
------------------------------------------------------------------------
-Total Revenue
+---------------------------------------------------------------------------------------------------------------------------------
+## Total Revenue
 ```
 Total Revenue = SUMX(Fact_Sales, Fact_Sales[Quantity] * Fact_Sales[Unit Sales Price])
+```
 Obliczenie całkowitej skali przychodu. Wykorzystanie funkcji SUMX zapewnia poprawną agregację poprzez mnożenie ilości i ceny na poziomie pojedynczej transakcji przed zsumowaniem wyników.
 
-COGS (Cost of Goods Sold)
+## COGS (Cost of Goods Sold)
 ```
 COGS = SUMX(Fact_Sales, Fact_Sales[Quantity] * RELATED(Dim_Products[Unit_Cost_USD]))
+```
 Koszt własny sprzedanych towarów. Miara łączy dane sprzedażowe z ceną zakupu z tabeli produktów, co pozwala określić realny koszt kapitału zaangażowanego w zrealizowane zamówienia.
-Gross Profit
+## Gross Profit
 ```
 Gross Profit = [Total Revenue] - [COGS]
 ```
 Zysk brutto na sprzedaży. Kluczowy wskaźnik określający kwotę pozostającą w przedsiębiorstwie na pokrycie kosztów operacyjnych i stałych.
-Gross Margin %
+## Gross Margin %
 ```
 Gross Margin % = DIVIDE([Gross Profit], [Total Revenue], 0)
+```
 Rentowność procentowa sprzedaży. Pozwala na obiektywne porównanie efektywności różnych kategorii produktowych niezależnie od ich wolumenu sprzedaży.
-Avg. Inventory Quantity
+## Avg. Inventory Quantity
 ```
 Avg. Inventory Quantity = 
 AVERAGEX(
     VALUES(Fact_Inventory[Date]), 
     SUM(Fact_Inventory[Quantity])
 )
+```
 Średnia liczba sztuk na magazynie. Zastosowanie AVERAGEX po unikalnych datach snapshotów eliminuje błąd wielokrotnego sumowania tych samych stanów magazynowych w czasie.
-Avg. Inventory Value
+## Avg. Inventory Value
 ```
 Avg. Inventory Value = 
 AVERAGEX(
@@ -94,7 +100,7 @@ AVERAGEX(
 )
 ```
 Średnia wartość zamrożonego kapitału. Najważniejszy wskaźnik kosztowy logistyki, określający przeciętną wartość towaru zalegającego na regałach w analizowanym okresie.
-Inventory Turnover (Annualized)
+## Inventory Turnover (Annualized)
 ```
 Inventory Turnover = 
 VAR DaysInPeriod = COUNTROWS(Dim_Date)
@@ -104,12 +110,12 @@ RETURN
 RawTurnover * AnnualizationFactor
 ```
 Wskaźnik rotacji magazynu z uwzględnieniem skali roku. Mechanizm annualizacji pozwala na rzetelne porównywanie efektywności logistycznej w różnych przedziałach czasowych (miesiąc vs rok).
-Days of Supply
+## Days of Supply
 ```
 Days of Supply = DIVIDE(365, [Inventory Turnover], 0)
 ```
 Liczba dni zapasu. Przekłada abstrakcyjny wskaźnik rotacji na konkretną informację operacyjną o czasie, na jaki wystarczy obecny stan magazynowy przy aktualnym tempie sprzedaży.
-Potential Cash Released
+## Potential Cash Released
 ```
 Potential Cash Released = [Avg. Inventory Value] * [Inventory Reduction % Value]
 ```
