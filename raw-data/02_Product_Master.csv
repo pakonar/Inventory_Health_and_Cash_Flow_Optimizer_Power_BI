@@ -1,0 +1,501 @@
+SKU,Product_Name,Category,Supplier,Unit_Cost,Currency,Lead_Time_Days,Safety_Stock_Level
+PROD-0001,Serve Skin,Clothing,"Alvarez, Vazquez and Hudson",104.09,USD,60,41
+PROD-0002,Product Hard,Electronics,"Alvarez, Vazquez and Hudson",31.46,GBP,45,20
+PROD-0003,Level Process,Home & Garden,"Lopez, Howard and Tapia",377.45,GBP,7,30
+PROD-0004,State Truth,Clothing,Kelly-Murray,179.06,EUR,14,49
+PROD-0005,Whole Oil,Industrial,"Garcia, Roberts and Li",358.44,EUR,60,32
+PROD-0006,News Type,Clothing,"Lopez, Howard and Tapia",20.09,GBP,14,32
+PROD-0007,Morning Worker,Electronics,"Duke, Smith and Mason",169.89,GBP,14,12
+PROD-0008,Do Report,Automotive,Ortega-Bishop,112.09,GBP,45,12
+PROD-0009,Measure Yourself,Electronics,"Duke, Smith and Mason",150.77,GBP,45,50
+PROD-0010,These Floor,Automotive,"Duke, Smith and Mason",164.99,USD,14,33
+PROD-0011,Magazine Peace,Automotive,Richard LLC,334.63,GBP,30,34
+PROD-0012,Entire Culture,Industrial,Ortega-Bishop,287.25,USD,7,34
+PROD-0013,Under Serve,Industrial,Ortega-Bishop,323.49,GBP,7,45
+PROD-0014,Audience Behavior,Electronics,Ortega-Bishop,152.83,USD,14,23
+PROD-0015,Full Station,Home & Garden,Richard LLC,176.89,GBP,7,39
+PROD-0016,Traditional Use,Clothing,"Duke, Smith and Mason",22.43,EUR,7,26
+PROD-0017,All Behind,Electronics,Ortega-Bishop,211.26,GBP,7,46
+PROD-0018,Phone Son,Clothing,Richard LLC,358.61,EUR,45,35
+PROD-0019,Painting Sell,Automotive,Baxter-Griffin,429.5,EUR,60,49
+PROD-0020,Majority Effort,Home & Garden,Richard LLC,327.51,USD,14,35
+PROD-0021,Economy Vote,Home & Garden,"Duke, Smith and Mason",239.87,GBP,45,12
+PROD-0022,Prove Explain,Industrial,Ortega-Bishop,348.91,GBP,60,43
+PROD-0023,Despite Raise,Industrial,Ortega-Bishop,287.61,EUR,30,44
+PROD-0024,Hold Early,Automotive,"Duke, Smith and Mason",359.78,USD,60,36
+PROD-0025,Month Result,Clothing,"Williams, Thompson and Martin",323.46,EUR,30,18
+PROD-0026,Hair Ask,Industrial,"Williams, Thompson and Martin",288.07,USD,7,29
+PROD-0027,Provide Society,Home & Garden,Kim-Huber,46.21,USD,45,25
+PROD-0028,Those Specific,Automotive,"Williams, Thompson and Martin",174.05,GBP,14,27
+PROD-0029,Be More,Automotive,"Garcia, Roberts and Li",437.71,USD,30,16
+PROD-0030,Better Indicate,Clothing,Richard LLC,498.0,EUR,45,16
+PROD-0031,Career Provide,Home & Garden,Richard LLC,298.06,GBP,14,19
+PROD-0032,Style Herself,Clothing,Richard LLC,242.66,USD,30,38
+PROD-0033,Debate Forget,Automotive,Kim-Huber,289.23,USD,14,20
+PROD-0034,Mother Organization,Electronics,Richard LLC,301.86,GBP,30,44
+PROD-0035,Move Other,Automotive,"Williams, Thompson and Martin",79.63,USD,30,38
+PROD-0036,Last Her,Home & Garden,"Williams, Thompson and Martin",367.12,USD,7,44
+PROD-0037,Probably Center,Home & Garden,"Lopez, Howard and Tapia",345.46,GBP,7,10
+PROD-0038,Character College,Industrial,Ortega-Bishop,344.56,EUR,30,11
+PROD-0039,News Rule,Clothing,"Williams, Thompson and Martin",208.76,GBP,60,30
+PROD-0040,Six Develop,Automotive,"Alvarez, Vazquez and Hudson",452.81,USD,7,46
+PROD-0041,Coach Yet,Electronics,"Williams, Thompson and Martin",70.19,GBP,14,15
+PROD-0042,Drive Form,Electronics,Richard LLC,498.55,USD,14,28
+PROD-0043,Final Agree,Electronics,"Alvarez, Vazquez and Hudson",428.05,GBP,60,10
+PROD-0044,Team Indeed,Home & Garden,"Duke, Smith and Mason",93.26,GBP,45,46
+PROD-0045,Direction Movement,Clothing,"Garcia, Roberts and Li",223.26,EUR,30,12
+PROD-0046,Green West,Industrial,Ortega-Bishop,414.86,EUR,30,23
+PROD-0047,Determine Specific,Clothing,Kelly-Murray,55.59,USD,30,46
+PROD-0048,Discover Ground,Industrial,"Williams, Thompson and Martin",426.77,USD,7,35
+PROD-0049,Look Where,Clothing,"Lopez, Howard and Tapia",260.5,EUR,60,31
+PROD-0050,Entire Shoulder,Automotive,"Lopez, Howard and Tapia",110.84,EUR,45,43
+PROD-0051,Scientist Which,Automotive,"Duke, Smith and Mason",329.54,USD,30,26
+PROD-0052,Budget Education,Automotive,"Alvarez, Vazquez and Hudson",266.61,GBP,14,29
+PROD-0053,Hit Mother,Electronics,Baxter-Griffin,429.02,GBP,45,47
+PROD-0054,Capital First,Automotive,Baxter-Griffin,72.76,EUR,14,18
+PROD-0055,Attention Fall,Home & Garden,"Williams, Thompson and Martin",399.15,EUR,14,10
+PROD-0056,Fight History,Automotive,Kelly-Murray,406.79,USD,30,34
+PROD-0057,Wrong Capital,Automotive,Kelly-Murray,15.44,GBP,14,17
+PROD-0058,Heavy Recognize,Home & Garden,"Williams, Thompson and Martin",316.68,GBP,45,49
+PROD-0059,Material Firm,Home & Garden,"Alvarez, Vazquez and Hudson",355.06,GBP,7,35
+PROD-0060,Live Get,Electronics,Kelly-Murray,187.34,EUR,7,46
+PROD-0061,Break Hear,Automotive,Richard LLC,328.67,USD,60,21
+PROD-0062,Cost Culture,Electronics,Kelly-Murray,218.26,GBP,30,19
+PROD-0063,Determine Tend,Home & Garden,"Alvarez, Vazquez and Hudson",89.97,USD,14,42
+PROD-0064,Us Phone,Home & Garden,"Garcia, Roberts and Li",412.37,GBP,30,27
+PROD-0065,Produce Authority,Electronics,Richard LLC,113.62,EUR,45,21
+PROD-0066,Scene Man,Home & Garden,"Alvarez, Vazquez and Hudson",498.57,EUR,14,30
+PROD-0067,Wonder Against,Electronics,"Lopez, Howard and Tapia",240.91,GBP,45,28
+PROD-0068,Them Available,Industrial,"Lopez, Howard and Tapia",112.94,USD,60,36
+PROD-0069,Hear Democrat,Electronics,Richard LLC,263.74,EUR,30,25
+PROD-0070,Other Summer,Industrial,"Williams, Thompson and Martin",436.13,EUR,30,28
+PROD-0071,Want Dinner,Home & Garden,"Alvarez, Vazquez and Hudson",257.12,GBP,7,34
+PROD-0072,Eat With,Automotive,"Alvarez, Vazquez and Hudson",412.0,GBP,30,35
+PROD-0073,Ok Senior,Home & Garden,Baxter-Griffin,299.26,EUR,60,14
+PROD-0074,Want Item,Home & Garden,Baxter-Griffin,337.1,USD,7,49
+PROD-0075,Style Industry,Clothing,"Lopez, Howard and Tapia",386.29,GBP,60,14
+PROD-0076,Response Dinner,Automotive,Ortega-Bishop,33.46,GBP,60,31
+PROD-0077,Vote Who,Industrial,"Alvarez, Vazquez and Hudson",75.73,EUR,45,20
+PROD-0078,Keep Them,Clothing,Baxter-Griffin,343.26,EUR,14,39
+PROD-0079,Yet Produce,Automotive,"Lopez, Howard and Tapia",284.71,USD,45,11
+PROD-0080,Listen General,Industrial,"Garcia, Roberts and Li",110.29,EUR,30,40
+PROD-0081,Push Much,Electronics,Kim-Huber,98.57,GBP,30,41
+PROD-0082,Describe Customer,Automotive,Kelly-Murray,425.46,USD,45,30
+PROD-0083,Process Into,Automotive,"Williams, Thompson and Martin",465.18,EUR,7,39
+PROD-0084,Project Vote,Clothing,"Duke, Smith and Mason",494.1,GBP,14,34
+PROD-0085,Lose Make,Home & Garden,Ortega-Bishop,163.02,EUR,7,28
+PROD-0086,Scientist Pretty,Industrial,"Alvarez, Vazquez and Hudson",431.54,EUR,45,22
+PROD-0087,Side Baby,Automotive,Baxter-Griffin,78.07,GBP,7,32
+PROD-0088,Happy Because,Electronics,Ortega-Bishop,325.06,EUR,7,46
+PROD-0089,Common Success,Clothing,Kelly-Murray,366.58,USD,14,27
+PROD-0090,Life Time,Home & Garden,Ortega-Bishop,92.12,GBP,30,50
+PROD-0091,Stage Third,Home & Garden,Baxter-Griffin,60.82,USD,30,27
+PROD-0092,Manager Democrat,Home & Garden,Kelly-Murray,338.83,EUR,14,23
+PROD-0093,Indeed Type,Industrial,"Lopez, Howard and Tapia",113.49,GBP,45,37
+PROD-0094,Receive Several,Clothing,"Garcia, Roberts and Li",434.38,EUR,14,29
+PROD-0095,Trial Free,Electronics,"Duke, Smith and Mason",226.01,USD,60,29
+PROD-0096,No Unit,Clothing,"Duke, Smith and Mason",317.19,USD,45,13
+PROD-0097,Key Within,Industrial,Kelly-Murray,416.24,EUR,60,16
+PROD-0098,Oil Section,Home & Garden,Richard LLC,336.4,GBP,14,21
+PROD-0099,Knowledge Town,Automotive,Kim-Huber,195.71,EUR,7,23
+PROD-0100,Decide Knowledge,Electronics,Ortega-Bishop,393.33,GBP,60,19
+PROD-0101,Material Night,Clothing,"Garcia, Roberts and Li",440.67,GBP,14,32
+PROD-0102,Who Line,Home & Garden,Kelly-Murray,254.46,USD,60,26
+PROD-0103,Available Goal,Industrial,"Williams, Thompson and Martin",405.2,USD,7,48
+PROD-0104,Rather Drop,Clothing,"Alvarez, Vazquez and Hudson",225.12,GBP,45,11
+PROD-0105,Course Fact,Industrial,"Williams, Thompson and Martin",125.18,EUR,60,33
+PROD-0106,Soon Throw,Clothing,"Lopez, Howard and Tapia",173.8,GBP,45,11
+PROD-0107,Another System,Electronics,Baxter-Griffin,390.27,GBP,14,12
+PROD-0108,First Four,Home & Garden,Kim-Huber,440.64,EUR,30,49
+PROD-0109,Particular Charge,Industrial,"Alvarez, Vazquez and Hudson",364.87,EUR,7,29
+PROD-0110,Executive Food,Electronics,Richard LLC,179.25,USD,45,13
+PROD-0111,Environmental Likely,Home & Garden,Richard LLC,53.68,EUR,45,37
+PROD-0112,People Something,Automotive,"Lopez, Howard and Tapia",300.37,EUR,14,50
+PROD-0113,Investment Word,Automotive,"Alvarez, Vazquez and Hudson",484.32,EUR,14,41
+PROD-0114,Enough Attack,Automotive,Richard LLC,429.86,USD,7,13
+PROD-0115,Person Finally,Automotive,Ortega-Bishop,422.12,GBP,45,43
+PROD-0116,Indicate Federal,Automotive,"Williams, Thompson and Martin",27.58,EUR,45,32
+PROD-0117,Member Military,Clothing,"Lopez, Howard and Tapia",37.77,USD,30,35
+PROD-0118,Several Your,Electronics,Kim-Huber,382.45,GBP,45,36
+PROD-0119,Reality Card,Electronics,Richard LLC,83.13,EUR,7,35
+PROD-0120,Mother Yard,Electronics,Baxter-Griffin,398.24,GBP,45,28
+PROD-0121,However Bill,Home & Garden,"Alvarez, Vazquez and Hudson",300.58,EUR,30,11
+PROD-0122,Make Small,Electronics,"Williams, Thompson and Martin",282.67,USD,60,23
+PROD-0123,Special Fish,Electronics,"Williams, Thompson and Martin",325.89,EUR,60,17
+PROD-0124,Sure Yard,Clothing,Ortega-Bishop,296.61,GBP,30,20
+PROD-0125,Someone Itself,Electronics,"Williams, Thompson and Martin",325.77,USD,14,35
+PROD-0126,Right Buy,Home & Garden,"Duke, Smith and Mason",98.96,EUR,45,26
+PROD-0127,Decision Eye,Industrial,"Garcia, Roberts and Li",190.45,GBP,7,42
+PROD-0128,Stay Space,Home & Garden,"Duke, Smith and Mason",143.16,USD,60,41
+PROD-0129,Door Huge,Home & Garden,Richard LLC,50.51,USD,7,16
+PROD-0130,Far Oil,Automotive,Kelly-Murray,478.14,GBP,45,11
+PROD-0131,Deal Skill,Clothing,Baxter-Griffin,249.66,GBP,7,43
+PROD-0132,Population Inside,Industrial,Baxter-Griffin,294.5,EUR,30,33
+PROD-0133,Member Fund,Industrial,Ortega-Bishop,293.79,GBP,30,38
+PROD-0134,Forward Discussion,Home & Garden,Kim-Huber,331.01,USD,30,13
+PROD-0135,Effect Above,Clothing,Kim-Huber,126.85,USD,45,13
+PROD-0136,Right Themselves,Industrial,Baxter-Griffin,208.5,USD,60,44
+PROD-0137,Rich Point,Clothing,"Duke, Smith and Mason",273.29,GBP,14,21
+PROD-0138,Instead General,Industrial,"Williams, Thompson and Martin",322.59,EUR,45,23
+PROD-0139,Prevent Character,Industrial,"Lopez, Howard and Tapia",428.85,GBP,14,40
+PROD-0140,Exactly Two,Industrial,"Alvarez, Vazquez and Hudson",463.13,USD,60,40
+PROD-0141,Particularly View,Home & Garden,Baxter-Griffin,131.25,GBP,7,30
+PROD-0142,Speech Eat,Home & Garden,Richard LLC,236.05,USD,45,40
+PROD-0143,These Eye,Electronics,"Alvarez, Vazquez and Hudson",170.51,GBP,7,43
+PROD-0144,Receive Consumer,Home & Garden,Richard LLC,44.46,EUR,30,35
+PROD-0145,Difficult Continue,Automotive,"Williams, Thompson and Martin",422.46,GBP,30,20
+PROD-0146,Near Sit,Home & Garden,Kim-Huber,74.45,EUR,7,47
+PROD-0147,Least First,Industrial,"Lopez, Howard and Tapia",85.57,EUR,14,36
+PROD-0148,Away Enter,Automotive,Baxter-Griffin,176.09,EUR,7,28
+PROD-0149,Issue Name,Clothing,"Garcia, Roberts and Li",321.35,GBP,45,40
+PROD-0150,Point Institution,Automotive,"Lopez, Howard and Tapia",415.75,EUR,60,13
+PROD-0151,Next Grow,Industrial,"Alvarez, Vazquez and Hudson",20.28,USD,7,10
+PROD-0152,Allow Fly,Home & Garden,Baxter-Griffin,211.33,USD,30,22
+PROD-0153,Entire Quality,Automotive,Kim-Huber,218.32,EUR,60,37
+PROD-0154,Other Above,Industrial,Richard LLC,206.33,EUR,45,31
+PROD-0155,Away Region,Industrial,Kelly-Murray,71.26,GBP,14,15
+PROD-0156,Enjoy Enter,Clothing,"Garcia, Roberts and Li",407.02,GBP,60,43
+PROD-0157,Shoulder Talk,Clothing,Baxter-Griffin,412.93,EUR,7,34
+PROD-0158,News Win,Industrial,"Garcia, Roberts and Li",133.81,GBP,60,33
+PROD-0159,Nearly Relationship,Electronics,"Lopez, Howard and Tapia",345.86,GBP,45,37
+PROD-0160,While Enjoy,Industrial,"Lopez, Howard and Tapia",94.04,GBP,45,24
+PROD-0161,That Response,Electronics,"Garcia, Roberts and Li",112.25,USD,60,44
+PROD-0162,Rock Director,Electronics,"Alvarez, Vazquez and Hudson",355.99,GBP,30,33
+PROD-0163,Its Area,Industrial,"Lopez, Howard and Tapia",405.31,GBP,14,28
+PROD-0164,Church Sign,Clothing,Baxter-Griffin,404.83,USD,30,31
+PROD-0165,Attack Major,Home & Garden,Kim-Huber,493.77,EUR,45,13
+PROD-0166,Pm Thing,Clothing,Baxter-Griffin,346.86,GBP,7,28
+PROD-0167,Truth Probably,Clothing,"Williams, Thompson and Martin",370.7,EUR,45,26
+PROD-0168,Now Become,Clothing,Ortega-Bishop,186.32,GBP,60,23
+PROD-0169,Add Second,Clothing,"Lopez, Howard and Tapia",28.75,GBP,30,18
+PROD-0170,Meeting Lot,Automotive,Kim-Huber,167.36,EUR,7,40
+PROD-0171,Course Goal,Industrial,Kelly-Murray,262.05,GBP,60,28
+PROD-0172,Need Manager,Home & Garden,"Duke, Smith and Mason",64.86,GBP,45,50
+PROD-0173,Exist Fall,Electronics,Ortega-Bishop,13.06,EUR,30,16
+PROD-0174,Behavior Some,Industrial,"Williams, Thompson and Martin",490.25,GBP,45,19
+PROD-0175,Collection Doctor,Automotive,Kelly-Murray,424.1,GBP,7,43
+PROD-0176,Alone Change,Electronics,"Duke, Smith and Mason",356.63,EUR,14,42
+PROD-0177,Consider Shake,Automotive,Richard LLC,358.15,GBP,30,22
+PROD-0178,Change Who,Electronics,"Williams, Thompson and Martin",207.38,USD,14,12
+PROD-0179,Top Mouth,Clothing,Baxter-Griffin,59.03,GBP,14,48
+PROD-0180,Something Character,Electronics,"Garcia, Roberts and Li",249.2,USD,30,44
+PROD-0181,Too Call,Industrial,Kim-Huber,364.92,USD,7,37
+PROD-0182,Choice Study,Home & Garden,Ortega-Bishop,29.51,USD,7,48
+PROD-0183,Save Wear,Electronics,Kim-Huber,149.36,USD,60,26
+PROD-0184,Often Truth,Home & Garden,Ortega-Bishop,191.49,EUR,45,39
+PROD-0185,People Learn,Home & Garden,Kelly-Murray,92.7,GBP,7,37
+PROD-0186,Outside Speak,Home & Garden,Kim-Huber,229.04,EUR,45,30
+PROD-0187,System Little,Home & Garden,Richard LLC,53.42,GBP,60,15
+PROD-0188,Student Gas,Industrial,"Lopez, Howard and Tapia",9.0,GBP,14,10
+PROD-0189,Final Bad,Automotive,"Garcia, Roberts and Li",37.04,USD,45,21
+PROD-0190,You Like,Automotive,Richard LLC,493.72,GBP,30,28
+PROD-0191,Kitchen Myself,Clothing,"Garcia, Roberts and Li",361.1,USD,60,11
+PROD-0192,Same Resource,Industrial,Richard LLC,197.72,USD,45,35
+PROD-0193,Per Time,Electronics,"Williams, Thompson and Martin",325.94,GBP,45,35
+PROD-0194,Top Daughter,Electronics,"Lopez, Howard and Tapia",272.07,USD,7,13
+PROD-0195,Believe Approach,Electronics,Kelly-Murray,447.38,USD,45,25
+PROD-0196,Control Message,Clothing,Ortega-Bishop,211.89,GBP,7,30
+PROD-0197,Turn Avoid,Industrial,"Duke, Smith and Mason",411.14,USD,14,49
+PROD-0198,Cup Which,Automotive,"Garcia, Roberts and Li",302.25,GBP,60,33
+PROD-0199,Lose Big,Automotive,Kim-Huber,479.99,USD,30,29
+PROD-0200,Popular President,Industrial,"Lopez, Howard and Tapia",342.35,EUR,7,49
+PROD-0201,Reduce Tonight,Electronics,"Williams, Thompson and Martin",160.91,USD,7,11
+PROD-0202,Though To,Clothing,Ortega-Bishop,204.72,USD,30,36
+PROD-0203,Now The,Electronics,Richard LLC,213.09,GBP,45,14
+PROD-0204,Day Game,Industrial,Ortega-Bishop,173.59,USD,60,22
+PROD-0205,Visit Education,Industrial,"Williams, Thompson and Martin",460.29,GBP,30,25
+PROD-0206,Identify Need,Home & Garden,"Lopez, Howard and Tapia",11.55,EUR,14,37
+PROD-0207,Early Receive,Home & Garden,Kim-Huber,60.39,EUR,30,43
+PROD-0208,Lead Human,Automotive,"Lopez, Howard and Tapia",312.25,USD,7,22
+PROD-0209,Save Decision,Industrial,"Duke, Smith and Mason",330.38,GBP,30,43
+PROD-0210,Feeling Partner,Automotive,Baxter-Griffin,493.17,GBP,7,17
+PROD-0211,Market Culture,Clothing,Richard LLC,259.38,EUR,7,23
+PROD-0212,Often Month,Clothing,"Lopez, Howard and Tapia",413.48,USD,30,30
+PROD-0213,Thing Just,Industrial,"Duke, Smith and Mason",179.53,EUR,14,35
+PROD-0214,Task Home,Industrial,"Garcia, Roberts and Li",262.44,USD,30,37
+PROD-0215,Child Require,Industrial,Richard LLC,427.56,GBP,30,47
+PROD-0216,Again Door,Automotive,Kim-Huber,56.81,EUR,60,44
+PROD-0217,House American,Electronics,"Lopez, Howard and Tapia",125.49,USD,30,11
+PROD-0218,Foot Need,Automotive,Kelly-Murray,437.16,EUR,60,23
+PROD-0219,Hit Affect,Automotive,Richard LLC,145.29,GBP,7,21
+PROD-0220,American Force,Industrial,"Duke, Smith and Mason",228.45,USD,14,38
+PROD-0221,Manager Body,Home & Garden,"Garcia, Roberts and Li",137.66,EUR,7,17
+PROD-0222,Argue Focus,Electronics,"Garcia, Roberts and Li",258.73,EUR,7,17
+PROD-0223,Social Which,Industrial,"Williams, Thompson and Martin",240.06,GBP,60,35
+PROD-0224,Brother Bad,Clothing,"Alvarez, Vazquez and Hudson",355.55,EUR,30,45
+PROD-0225,Not Mother,Automotive,"Duke, Smith and Mason",206.99,GBP,30,46
+PROD-0226,Not North,Electronics,"Alvarez, Vazquez and Hudson",9.63,USD,60,22
+PROD-0227,Father Behind,Electronics,Kim-Huber,392.52,USD,45,18
+PROD-0228,Three Huge,Home & Garden,Baxter-Griffin,212.8,USD,7,12
+PROD-0229,Appear Address,Home & Garden,"Alvarez, Vazquez and Hudson",297.97,GBP,30,22
+PROD-0230,Explain Them,Automotive,"Alvarez, Vazquez and Hudson",127.25,EUR,14,26
+PROD-0231,Entire Forward,Electronics,"Williams, Thompson and Martin",66.66,GBP,14,15
+PROD-0232,Indeed Clearly,Clothing,"Alvarez, Vazquez and Hudson",481.05,EUR,7,18
+PROD-0233,Girl Woman,Clothing,"Williams, Thompson and Martin",393.12,GBP,30,43
+PROD-0234,Too Trial,Home & Garden,Richard LLC,290.46,EUR,7,21
+PROD-0235,Production Majority,Home & Garden,Kelly-Murray,196.04,EUR,7,29
+PROD-0236,Partner Worry,Automotive,Richard LLC,279.99,EUR,45,26
+PROD-0237,Each Bring,Clothing,Richard LLC,442.02,USD,7,33
+PROD-0238,Power Image,Home & Garden,"Lopez, Howard and Tapia",476.71,USD,14,29
+PROD-0239,Thank When,Clothing,Kim-Huber,267.22,EUR,45,15
+PROD-0240,Age Item,Home & Garden,Ortega-Bishop,329.51,EUR,7,44
+PROD-0241,Speech While,Electronics,"Williams, Thompson and Martin",455.38,EUR,45,28
+PROD-0242,Relationship Present,Industrial,"Garcia, Roberts and Li",131.2,USD,7,40
+PROD-0243,Seem How,Industrial,"Lopez, Howard and Tapia",85.7,GBP,7,35
+PROD-0244,But Wall,Home & Garden,"Williams, Thompson and Martin",344.79,GBP,7,26
+PROD-0245,Stop Themselves,Clothing,"Lopez, Howard and Tapia",90.1,USD,45,41
+PROD-0246,Three Large,Automotive,Richard LLC,98.35,EUR,30,32
+PROD-0247,Main East,Home & Garden,Kim-Huber,292.64,GBP,60,42
+PROD-0248,Apply Happen,Automotive,Ortega-Bishop,367.81,GBP,30,38
+PROD-0249,Much Woman,Home & Garden,Richard LLC,118.33,USD,7,32
+PROD-0250,Pass Place,Automotive,Richard LLC,453.67,GBP,14,37
+PROD-0251,Situation Receive,Home & Garden,Ortega-Bishop,60.53,USD,14,44
+PROD-0252,Industry Approach,Clothing,Kim-Huber,465.46,GBP,30,21
+PROD-0253,Imagine List,Home & Garden,Kelly-Murray,199.68,GBP,14,28
+PROD-0254,Present Decide,Electronics,"Alvarez, Vazquez and Hudson",191.39,EUR,30,14
+PROD-0255,Stay Discuss,Automotive,Ortega-Bishop,495.16,GBP,45,23
+PROD-0256,Then Laugh,Industrial,"Lopez, Howard and Tapia",84.34,USD,7,34
+PROD-0257,Realize Nice,Industrial,"Lopez, Howard and Tapia",391.25,USD,60,22
+PROD-0258,Feeling Trip,Automotive,"Alvarez, Vazquez and Hudson",491.94,EUR,60,17
+PROD-0259,Own Anything,Automotive,Richard LLC,395.43,GBP,30,49
+PROD-0260,Really Remain,Clothing,"Lopez, Howard and Tapia",144.55,GBP,30,45
+PROD-0261,Necessary Recently,Home & Garden,Kim-Huber,26.64,USD,60,48
+PROD-0262,Up Watch,Industrial,Baxter-Griffin,193.82,USD,60,50
+PROD-0263,Total Record,Electronics,Ortega-Bishop,198.65,USD,7,33
+PROD-0264,We Save,Clothing,"Williams, Thompson and Martin",105.35,USD,45,46
+PROD-0265,Bit Once,Automotive,Richard LLC,430.99,EUR,60,38
+PROD-0266,Performance Order,Home & Garden,Baxter-Griffin,365.83,USD,45,48
+PROD-0267,Tough Pretty,Electronics,"Williams, Thompson and Martin",35.97,GBP,60,24
+PROD-0268,Go Strong,Industrial,"Williams, Thompson and Martin",74.61,EUR,45,18
+PROD-0269,Stop Cost,Clothing,"Alvarez, Vazquez and Hudson",455.77,EUR,14,34
+PROD-0270,Remember Despite,Clothing,"Williams, Thompson and Martin",189.2,GBP,60,33
+PROD-0271,Mother Assume,Electronics,"Garcia, Roberts and Li",485.31,GBP,30,25
+PROD-0272,Drive Former,Automotive,"Alvarez, Vazquez and Hudson",332.65,GBP,14,20
+PROD-0273,Relate Deep,Clothing,Kelly-Murray,436.33,GBP,30,23
+PROD-0274,Close International,Automotive,Kelly-Murray,144.91,GBP,30,10
+PROD-0275,Government Item,Industrial,"Garcia, Roberts and Li",443.29,USD,30,39
+PROD-0276,Room Economic,Home & Garden,"Duke, Smith and Mason",178.64,USD,14,38
+PROD-0277,Explain True,Electronics,Baxter-Griffin,418.55,USD,30,33
+PROD-0278,Each Director,Electronics,"Alvarez, Vazquez and Hudson",275.61,USD,7,23
+PROD-0279,Father Medical,Automotive,"Garcia, Roberts and Li",303.6,GBP,14,12
+PROD-0280,Ago Compare,Clothing,"Duke, Smith and Mason",404.11,EUR,60,46
+PROD-0281,Road Green,Industrial,Ortega-Bishop,130.5,USD,30,16
+PROD-0282,Scientist Right,Electronics,Richard LLC,52.94,EUR,7,50
+PROD-0283,Staff Per,Industrial,Ortega-Bishop,476.38,EUR,7,18
+PROD-0284,President None,Electronics,Baxter-Griffin,274.89,USD,60,20
+PROD-0285,For Surface,Automotive,"Williams, Thompson and Martin",414.38,EUR,45,32
+PROD-0286,Use In,Electronics,Richard LLC,287.42,GBP,60,18
+PROD-0287,Operation Rest,Automotive,Richard LLC,143.9,EUR,60,25
+PROD-0288,Ball Economic,Clothing,"Lopez, Howard and Tapia",496.1,EUR,60,22
+PROD-0289,Picture Child,Home & Garden,Richard LLC,213.1,GBP,45,48
+PROD-0290,National Capital,Electronics,Ortega-Bishop,358.01,EUR,14,38
+PROD-0291,Wife Table,Home & Garden,"Lopez, Howard and Tapia",450.98,GBP,30,44
+PROD-0292,Election Avoid,Clothing,Kelly-Murray,457.01,EUR,14,44
+PROD-0293,Election Growth,Automotive,"Duke, Smith and Mason",26.54,GBP,60,21
+PROD-0294,Woman Show,Electronics,"Alvarez, Vazquez and Hudson",22.76,GBP,7,41
+PROD-0295,Account Indicate,Automotive,"Garcia, Roberts and Li",102.37,GBP,7,37
+PROD-0296,Father Police,Industrial,"Williams, Thompson and Martin",42.09,USD,7,42
+PROD-0297,Born White,Industrial,"Garcia, Roberts and Li",305.43,GBP,30,46
+PROD-0298,Left Card,Automotive,"Williams, Thompson and Martin",443.96,GBP,14,31
+PROD-0299,Young Kitchen,Industrial,"Williams, Thompson and Martin",407.43,GBP,45,49
+PROD-0300,School However,Automotive,Kelly-Murray,133.77,USD,60,48
+PROD-0301,Side Beyond,Automotive,Baxter-Griffin,116.49,EUR,30,20
+PROD-0302,Wish Democratic,Industrial,Kim-Huber,77.97,USD,45,27
+PROD-0303,North Nation,Clothing,"Garcia, Roberts and Li",349.32,EUR,14,22
+PROD-0304,Key East,Clothing,"Alvarez, Vazquez and Hudson",360.63,EUR,14,28
+PROD-0305,Threat Image,Home & Garden,Ortega-Bishop,224.72,GBP,14,37
+PROD-0306,Draw Maybe,Industrial,Richard LLC,244.15,GBP,45,15
+PROD-0307,Current Away,Automotive,Ortega-Bishop,75.29,GBP,45,16
+PROD-0308,Law Explain,Industrial,Kim-Huber,121.9,EUR,7,26
+PROD-0309,Trial Dream,Industrial,"Alvarez, Vazquez and Hudson",39.79,USD,30,39
+PROD-0310,Perform Wife,Home & Garden,Ortega-Bishop,494.9,EUR,7,28
+PROD-0311,Agent Strong,Home & Garden,Baxter-Griffin,396.68,GBP,60,31
+PROD-0312,Than Expect,Clothing,"Alvarez, Vazquez and Hudson",107.8,GBP,45,30
+PROD-0313,Technology Country,Automotive,Richard LLC,222.11,GBP,7,49
+PROD-0314,Phone Event,Home & Garden,"Williams, Thompson and Martin",171.0,USD,7,30
+PROD-0315,Season Truth,Industrial,"Lopez, Howard and Tapia",172.71,EUR,30,35
+PROD-0316,Song Girl,Electronics,"Lopez, Howard and Tapia",208.78,USD,7,48
+PROD-0317,Like Speech,Industrial,Kelly-Murray,402.32,USD,45,12
+PROD-0318,A Age,Clothing,Kelly-Murray,121.42,USD,30,12
+PROD-0319,Edge Three,Home & Garden,"Duke, Smith and Mason",290.9,USD,60,30
+PROD-0320,Democrat Truth,Clothing,"Alvarez, Vazquez and Hudson",241.09,USD,7,40
+PROD-0321,Continue No,Industrial,"Lopez, Howard and Tapia",61.97,EUR,30,27
+PROD-0322,Give Know,Clothing,Richard LLC,390.72,USD,45,26
+PROD-0323,Yes Apply,Automotive,Baxter-Griffin,195.94,EUR,7,38
+PROD-0324,Performance Allow,Industrial,Kim-Huber,22.37,USD,45,28
+PROD-0325,Enjoy Dark,Clothing,Richard LLC,219.58,GBP,60,41
+PROD-0326,Management Great,Clothing,Kelly-Murray,176.44,GBP,30,25
+PROD-0327,State Spring,Electronics,"Williams, Thompson and Martin",477.88,EUR,14,16
+PROD-0328,Blood Music,Electronics,Kelly-Murray,24.77,GBP,14,15
+PROD-0329,Event Benefit,Home & Garden,Kelly-Murray,45.85,USD,30,28
+PROD-0330,Card Page,Industrial,Baxter-Griffin,394.71,EUR,7,45
+PROD-0331,Name Impact,Industrial,Baxter-Griffin,228.7,GBP,60,37
+PROD-0332,Before One,Industrial,Richard LLC,80.75,GBP,14,41
+PROD-0333,Their Cause,Automotive,Richard LLC,178.3,EUR,7,46
+PROD-0334,Enter View,Industrial,Baxter-Griffin,445.5,GBP,45,40
+PROD-0335,Reason History,Clothing,"Alvarez, Vazquez and Hudson",228.28,GBP,45,39
+PROD-0336,Reflect Little,Home & Garden,"Alvarez, Vazquez and Hudson",429.38,USD,14,28
+PROD-0337,Model Form,Automotive,"Duke, Smith and Mason",277.46,EUR,14,20
+PROD-0338,Not Continue,Industrial,"Williams, Thompson and Martin",28.72,EUR,30,37
+PROD-0339,Development Form,Home & Garden,"Williams, Thompson and Martin",65.79,USD,30,40
+PROD-0340,Environment Customer,Automotive,"Lopez, Howard and Tapia",489.35,EUR,30,46
+PROD-0341,Right Program,Automotive,"Alvarez, Vazquez and Hudson",451.58,EUR,14,21
+PROD-0342,Full Movie,Electronics,"Duke, Smith and Mason",189.82,USD,60,35
+PROD-0343,Budget None,Clothing,"Duke, Smith and Mason",435.88,USD,60,50
+PROD-0344,Through Keep,Electronics,"Lopez, Howard and Tapia",327.7,USD,7,32
+PROD-0345,Medical Police,Industrial,Kelly-Murray,130.3,USD,45,25
+PROD-0346,Only Stand,Clothing,"Alvarez, Vazquez and Hudson",412.25,GBP,60,42
+PROD-0347,Yeah Require,Electronics,Baxter-Griffin,208.5,EUR,14,34
+PROD-0348,Go Cost,Industrial,"Williams, Thompson and Martin",483.89,GBP,45,41
+PROD-0349,Trouble Leave,Electronics,Kelly-Murray,442.37,USD,14,30
+PROD-0350,Rather Population,Industrial,"Lopez, Howard and Tapia",347.56,GBP,7,10
+PROD-0351,Power Issue,Automotive,Ortega-Bishop,388.79,USD,45,13
+PROD-0352,Fill Five,Home & Garden,"Lopez, Howard and Tapia",285.67,EUR,7,22
+PROD-0353,Very Republican,Home & Garden,Kelly-Murray,56.23,USD,14,42
+PROD-0354,Affect Story,Electronics,"Lopez, Howard and Tapia",119.2,USD,30,35
+PROD-0355,Candidate Short,Industrial,"Garcia, Roberts and Li",129.52,EUR,30,27
+PROD-0356,Clearly Less,Clothing,Baxter-Griffin,443.54,USD,45,12
+PROD-0357,Page By,Industrial,"Duke, Smith and Mason",69.61,EUR,7,47
+PROD-0358,Office Arrive,Home & Garden,"Lopez, Howard and Tapia",438.79,USD,7,22
+PROD-0359,Fast Eye,Electronics,Baxter-Griffin,391.94,GBP,14,24
+PROD-0360,Town Believe,Automotive,Richard LLC,316.42,USD,45,29
+PROD-0361,Take I,Clothing,"Lopez, Howard and Tapia",320.61,GBP,30,33
+PROD-0362,Every Produce,Electronics,"Lopez, Howard and Tapia",382.89,USD,7,21
+PROD-0363,Fine Good,Home & Garden,Kim-Huber,331.76,USD,7,26
+PROD-0364,Seven Item,Home & Garden,Kelly-Murray,264.52,USD,14,19
+PROD-0365,Research Join,Home & Garden,Baxter-Griffin,100.62,EUR,60,45
+PROD-0366,Painting Paper,Industrial,"Alvarez, Vazquez and Hudson",279.3,USD,30,26
+PROD-0367,Serve Order,Clothing,Richard LLC,182.41,EUR,60,38
+PROD-0368,Phone Value,Automotive,Baxter-Griffin,124.9,USD,7,42
+PROD-0369,Couple Laugh,Automotive,Kim-Huber,398.53,EUR,30,11
+PROD-0370,Politics Next,Industrial,"Garcia, Roberts and Li",223.04,USD,60,48
+PROD-0371,Other Ready,Automotive,Ortega-Bishop,270.03,GBP,30,10
+PROD-0372,Stop Join,Automotive,"Duke, Smith and Mason",35.52,GBP,7,44
+PROD-0373,Far Under,Industrial,Kim-Huber,491.79,USD,7,31
+PROD-0374,Animal Player,Home & Garden,"Garcia, Roberts and Li",29.59,GBP,30,29
+PROD-0375,Single Eat,Automotive,"Williams, Thompson and Martin",491.2,USD,30,36
+PROD-0376,Future Environmental,Home & Garden,Kim-Huber,45.24,USD,60,32
+PROD-0377,Provide Economy,Electronics,"Garcia, Roberts and Li",471.06,EUR,45,13
+PROD-0378,Fact Raise,Industrial,Kelly-Murray,346.99,GBP,60,41
+PROD-0379,Mrs Local,Electronics,"Duke, Smith and Mason",314.38,EUR,45,25
+PROD-0380,Pattern Pattern,Electronics,Kim-Huber,160.67,EUR,60,42
+PROD-0381,Want Reach,Clothing,"Williams, Thompson and Martin",310.92,GBP,14,25
+PROD-0382,Member Check,Automotive,"Garcia, Roberts and Li",479.82,EUR,45,28
+PROD-0383,Fine Figure,Home & Garden,Kelly-Murray,451.67,USD,45,45
+PROD-0384,South Whose,Electronics,Ortega-Bishop,50.65,USD,60,31
+PROD-0385,Risk Industry,Home & Garden,"Garcia, Roberts and Li",408.66,GBP,45,30
+PROD-0386,Who It,Electronics,"Duke, Smith and Mason",454.5,GBP,14,16
+PROD-0387,Power System,Automotive,Kim-Huber,159.08,GBP,14,14
+PROD-0388,Decade Network,Clothing,Kelly-Murray,359.44,GBP,7,14
+PROD-0389,We Against,Electronics,"Garcia, Roberts and Li",219.96,EUR,7,23
+PROD-0390,Give Why,Electronics,Kim-Huber,136.44,USD,14,50
+PROD-0391,Hundred Head,Industrial,"Duke, Smith and Mason",414.92,GBP,60,35
+PROD-0392,Interview Family,Industrial,"Alvarez, Vazquez and Hudson",202.0,USD,14,37
+PROD-0393,Surface Garden,Home & Garden,Ortega-Bishop,72.91,EUR,45,12
+PROD-0394,Produce Power,Clothing,"Lopez, Howard and Tapia",292.66,USD,30,20
+PROD-0395,Firm Happen,Electronics,Baxter-Griffin,478.82,EUR,45,40
+PROD-0396,Age Tree,Clothing,"Duke, Smith and Mason",95.53,USD,30,38
+PROD-0397,Magazine Performance,Home & Garden,Richard LLC,381.4,USD,7,13
+PROD-0398,Itself Represent,Electronics,"Garcia, Roberts and Li",408.14,GBP,14,40
+PROD-0399,Sound Where,Industrial,Richard LLC,369.11,EUR,30,38
+PROD-0400,Wife Assume,Home & Garden,Kelly-Murray,11.33,EUR,45,45
+PROD-0401,Couple Technology,Industrial,Richard LLC,448.97,EUR,7,35
+PROD-0402,Because Seek,Electronics,"Williams, Thompson and Martin",453.61,EUR,14,32
+PROD-0403,Stock Budget,Home & Garden,"Garcia, Roberts and Li",307.58,USD,45,34
+PROD-0404,Listen Song,Automotive,Richard LLC,349.11,GBP,30,38
+PROD-0405,Collection Actually,Clothing,"Lopez, Howard and Tapia",460.81,GBP,14,13
+PROD-0406,Involve Environmental,Automotive,Ortega-Bishop,475.04,USD,45,12
+PROD-0407,Speak Building,Clothing,"Garcia, Roberts and Li",427.41,GBP,60,46
+PROD-0408,Space Money,Industrial,"Alvarez, Vazquez and Hudson",453.0,USD,30,11
+PROD-0409,Build Yard,Electronics,"Duke, Smith and Mason",14.94,GBP,30,50
+PROD-0410,It Again,Clothing,Kim-Huber,41.15,EUR,30,37
+PROD-0411,Change Gas,Industrial,Kim-Huber,497.1,EUR,45,28
+PROD-0412,Particular Soon,Home & Garden,"Alvarez, Vazquez and Hudson",304.22,GBP,14,47
+PROD-0413,Next Available,Home & Garden,"Lopez, Howard and Tapia",443.35,EUR,45,27
+PROD-0414,Themselves Option,Home & Garden,Ortega-Bishop,48.24,USD,45,24
+PROD-0415,Turn Thing,Clothing,Ortega-Bishop,297.66,GBP,60,43
+PROD-0416,Election Rise,Industrial,"Duke, Smith and Mason",271.39,USD,45,34
+PROD-0417,Material Coach,Clothing,Kelly-Murray,7.87,GBP,45,35
+PROD-0418,Walk Involve,Electronics,"Williams, Thompson and Martin",405.79,GBP,7,15
+PROD-0419,Foreign Wall,Clothing,Kelly-Murray,185.73,GBP,14,11
+PROD-0420,Culture Food,Clothing,"Alvarez, Vazquez and Hudson",50.8,GBP,7,25
+PROD-0421,Positive Memory,Industrial,"Alvarez, Vazquez and Hudson",478.51,USD,30,26
+PROD-0422,Attorney Newspaper,Electronics,"Garcia, Roberts and Li",261.91,EUR,7,44
+PROD-0423,Watch Again,Electronics,Baxter-Griffin,176.11,USD,7,20
+PROD-0424,Present Provide,Home & Garden,Kim-Huber,296.77,GBP,7,11
+PROD-0425,Often Home,Electronics,"Alvarez, Vazquez and Hudson",87.86,EUR,60,10
+PROD-0426,Model Reduce,Industrial,Baxter-Griffin,68.45,GBP,30,27
+PROD-0427,Eye Technology,Electronics,Baxter-Griffin,386.26,EUR,60,22
+PROD-0428,Action Food,Industrial,Kelly-Murray,442.13,EUR,30,30
+PROD-0429,Fast Make,Electronics,Baxter-Griffin,128.68,GBP,14,18
+PROD-0430,Hold War,Automotive,Ortega-Bishop,245.9,GBP,30,27
+PROD-0431,Role Human,Electronics,Richard LLC,364.31,USD,45,11
+PROD-0432,Office Look,Electronics,Baxter-Griffin,173.98,GBP,45,14
+PROD-0433,Stage Guess,Clothing,"Alvarez, Vazquez and Hudson",130.01,USD,45,34
+PROD-0434,Perhaps Learn,Electronics,Baxter-Griffin,360.85,USD,30,49
+PROD-0435,Relate Because,Clothing,"Garcia, Roberts and Li",180.71,GBP,30,43
+PROD-0436,Near Spring,Home & Garden,Kelly-Murray,363.9,EUR,45,32
+PROD-0437,Sell Whose,Clothing,Kim-Huber,384.3,USD,30,29
+PROD-0438,Sound Tv,Industrial,"Duke, Smith and Mason",424.24,EUR,60,49
+PROD-0439,Southern Position,Electronics,"Alvarez, Vazquez and Hudson",62.51,EUR,7,42
+PROD-0440,Particular Book,Industrial,"Alvarez, Vazquez and Hudson",232.86,USD,7,47
+PROD-0441,Product Notice,Automotive,"Duke, Smith and Mason",354.36,USD,30,35
+PROD-0442,Worry Personal,Automotive,"Lopez, Howard and Tapia",283.42,EUR,7,31
+PROD-0443,Along Lot,Industrial,Richard LLC,360.9,GBP,45,41
+PROD-0444,Culture General,Electronics,Baxter-Griffin,35.69,GBP,45,16
+PROD-0445,Family Collection,Automotive,Richard LLC,163.12,USD,14,12
+PROD-0446,Wait Face,Clothing,Baxter-Griffin,266.24,GBP,7,20
+PROD-0447,Check City,Electronics,Kelly-Murray,21.76,EUR,14,36
+PROD-0448,Generation May,Clothing,Baxter-Griffin,497.24,USD,45,17
+PROD-0449,People Generation,Home & Garden,Ortega-Bishop,43.95,EUR,30,41
+PROD-0450,Someone Together,Clothing,Kelly-Murray,51.24,USD,60,22
+PROD-0451,Trade Box,Industrial,Richard LLC,31.69,EUR,45,22
+PROD-0452,Respond Above,Industrial,"Garcia, Roberts and Li",274.06,EUR,14,23
+PROD-0453,Far During,Automotive,Ortega-Bishop,289.04,EUR,14,19
+PROD-0454,Capital Sport,Electronics,"Alvarez, Vazquez and Hudson",113.9,GBP,14,22
+PROD-0455,Budget How,Home & Garden,Baxter-Griffin,433.91,EUR,14,37
+PROD-0456,Order Manager,Automotive,"Lopez, Howard and Tapia",251.34,EUR,60,14
+PROD-0457,After Thus,Automotive,Richard LLC,427.13,USD,30,43
+PROD-0458,Expect Yes,Industrial,"Lopez, Howard and Tapia",339.26,EUR,45,48
+PROD-0459,Alone Style,Automotive,"Alvarez, Vazquez and Hudson",273.01,GBP,30,25
+PROD-0460,Game Seek,Automotive,Kelly-Murray,34.59,GBP,60,25
+PROD-0461,Pull Also,Automotive,"Duke, Smith and Mason",361.37,USD,30,40
+PROD-0462,Hospital Direction,Industrial,"Garcia, Roberts and Li",168.01,EUR,45,12
+PROD-0463,Just Treatment,Clothing,"Williams, Thompson and Martin",456.73,USD,7,44
+PROD-0464,Share Positive,Industrial,"Duke, Smith and Mason",408.45,EUR,7,19
+PROD-0465,Skill Huge,Industrial,"Alvarez, Vazquez and Hudson",217.58,USD,30,45
+PROD-0466,Late Available,Industrial,"Lopez, Howard and Tapia",488.69,GBP,30,32
+PROD-0467,Car Answer,Clothing,"Lopez, Howard and Tapia",19.0,EUR,30,13
+PROD-0468,Level Total,Clothing,Ortega-Bishop,406.47,USD,45,29
+PROD-0469,Off Tv,Automotive,Richard LLC,303.02,EUR,60,28
+PROD-0470,Fall One,Electronics,"Garcia, Roberts and Li",367.43,GBP,45,17
+PROD-0471,Skin Or,Industrial,"Williams, Thompson and Martin",484.0,GBP,14,17
+PROD-0472,Collection Movement,Home & Garden,Richard LLC,247.27,GBP,14,35
+PROD-0473,Difference Election,Home & Garden,"Alvarez, Vazquez and Hudson",22.44,GBP,30,23
+PROD-0474,Work Less,Home & Garden,"Lopez, Howard and Tapia",412.96,EUR,7,36
+PROD-0475,Million Summer,Home & Garden,Kim-Huber,327.0,USD,30,25
+PROD-0476,Floor Tell,Clothing,"Williams, Thompson and Martin",183.12,GBP,30,12
+PROD-0477,Party For,Home & Garden,"Lopez, Howard and Tapia",194.46,USD,60,17
+PROD-0478,Interesting Lead,Automotive,"Lopez, Howard and Tapia",31.21,USD,30,20
+PROD-0479,Form Always,Industrial,"Lopez, Howard and Tapia",207.45,EUR,60,31
+PROD-0480,Use Society,Home & Garden,"Williams, Thompson and Martin",78.61,USD,30,40
+PROD-0481,Mission Medical,Industrial,"Lopez, Howard and Tapia",472.49,GBP,30,36
+PROD-0482,Outside Teach,Home & Garden,"Williams, Thompson and Martin",257.15,USD,30,19
+PROD-0483,Short Cut,Home & Garden,"Alvarez, Vazquez and Hudson",201.21,USD,60,29
+PROD-0484,Little Require,Electronics,Richard LLC,460.33,GBP,7,29
+PROD-0485,Tell Rock,Electronics,"Williams, Thompson and Martin",80.44,USD,14,30
+PROD-0486,Different Either,Clothing,"Williams, Thompson and Martin",106.17,GBP,60,24
+PROD-0487,Radio Surface,Home & Garden,Richard LLC,161.44,GBP,14,13
+PROD-0488,Article Line,Home & Garden,Ortega-Bishop,387.48,EUR,45,49
+PROD-0489,Return Moment,Automotive,Baxter-Griffin,476.19,USD,45,37
+PROD-0490,Big Hotel,Industrial,"Williams, Thompson and Martin",117.68,EUR,14,45
+PROD-0491,Work Clearly,Clothing,Kelly-Murray,274.41,GBP,60,33
+PROD-0492,Government Employee,Automotive,Richard LLC,447.05,EUR,14,19
+PROD-0493,Training World,Industrial,"Duke, Smith and Mason",54.98,USD,60,36
+PROD-0494,They Work,Electronics,"Duke, Smith and Mason",275.02,USD,14,29
+PROD-0495,From Practice,Industrial,Richard LLC,293.78,USD,14,24
+PROD-0496,Add Future,Electronics,"Garcia, Roberts and Li",74.35,USD,30,44
+PROD-0497,Present Return,Electronics,Kim-Huber,223.27,USD,45,50
+PROD-0498,Great Operation,Home & Garden,"Garcia, Roberts and Li",314.14,EUR,7,25
+PROD-0499,Fight Drop,Home & Garden,Kim-Huber,306.48,EUR,30,12
+PROD-0500,Of Drive,Automotive,Kelly-Murray,356.23,USD,30,35
