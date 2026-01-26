@@ -1,7 +1,7 @@
 # Inventory Health & Cash Flow Optimizer 
 
-![Dashboard Preview](assets/dashboard_screenshot.png)
-*(Click to view full resolution)*
+![Dashboard Preview](assets/dashboard.png)
+
 
 > **Quick Navigation / Nawigacja:**
 > [🇬🇧 English Version](#english-version) | [🇵🇱 Polska wersja](#wersja-polska)
