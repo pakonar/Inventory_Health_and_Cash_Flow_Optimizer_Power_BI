@@ -79,7 +79,7 @@ Raport umożliwia kadrze zarządzającej:
 ### 2. Źródło i charakterystyka danych
 Dane są syntetyczne, wygenerowane w Pythonie, aby symulować realne wyciągi z systemów **ERP (np. SAP)** oraz **WMS**.
 *   **Wolumen:** Pełny rok operacyjny (2023), >200 000 wierszy.
-*   **Złożoność:** Dane zawierają celowe błędy ("Dirty Data"):
+*   **Złożoność:** Dane zawierają celowe błędy:
     *   Niespójne formaty dat i walut.
     *   **Struktura macierzowa (pivot)** w plikach magazynowych wymagająca transformacji.
     *   Braki w słownikach produktowych.
