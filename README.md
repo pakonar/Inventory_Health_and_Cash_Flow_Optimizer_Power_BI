@@ -1,15 +1,14 @@
 # Inventory Health & Cash Flow Optimizer 
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](assets/dashboard.png)  
 
 
-> **Quick Navigation / Nawigacja:**
+> **Quick Navigation / Nawigacja:**  
 > [🇬🇧 English Version](#english-version) | [🇵🇱 Polska wersja](#wersja-polska)
 
 ---
 
 <a name="english-version"></a>
-## 🇬🇧 English Version
 
 ### 1. Project Goal & Business Problem
 The company generated high revenue but struggled with low liquidity. The primary goal of this project was to identify capital frozen in inventory and optimize Cash Flow.
