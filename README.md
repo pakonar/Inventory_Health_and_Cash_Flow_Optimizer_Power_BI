@@ -113,9 +113,24 @@ Zastosowane techniki:
 *   **Tabela Operacyjna:** Lista SKU wymagających interwencji (analiza Days of Supply vs Lead Time).
 
 ### 7. Wnioski Biznesowe
-Wstępna analiza wykazała kluczowe obszary do optymalizacji:
-1.  **Problem Overstockingu:** Wykryto produkty (np. `PROD-0185`), które posiadają zapas na **50 dni**, mimo że czas dostawy wynosi tylko **7 dni**.
-    *   *Rekomendacja:* Redukcja Safety Stock dla tych pozycji pozwoli natychmiast uwolnić gotówkę.
-2.  **Niska Rentowność:** Grupa produktów o wysokiej rotacji (8-12x), ale marży poniżej 6%.
-    *   *Rekomendacja:* Renegocjacja cen zakupu (COGS), zamiast wyprzedaży, która pogłębiłaby niską marżę.
-3.  **Potencjał Cash Flow:** Symulacja wykazuje, że 10% redukcja zapasów w grupach nierotujących może uwolnić ok. **$400k** środków obrotowych.
+
+Wstępna analiza danych oraz wizualizacja w kwadrantach pozwoliła na zidentyfikowanie krytycznych obszarów dla płynności finansowej przedsiębiorstwa:
+
+**1. Zarządzanie Rentownością**
+*   **Obserwacja:** Dolna część wykresu (wysoka rotacja 8-12x, ale marża < 6%) wskazuje na produkty, które generują duży ruch, ale mniejszy zysk.
+*   **Wniosek:** Produkty te obciążają operacyjnie magazyn (częste przyjęcia i wydania), mogą nie dostarczać adekwatnej marży.
+*   **Rekomendacja:** Zamiast wyprzedaży, można podjąć renegocjacje cen zakupu (COGS) u dostawców. Argumentem w negocjacjach powinien być wysoki i stabilny wolumen zamówień.
+
+**2. Ochrona Produktów Strategicznych**
+*   **Obserwacja:** W prawym górnym kwadrancie (wysoka rotacja i wysoka marża) znajdują się kluczowe produkty (np. `PROD-0140`, `PROD-0194`, `PROD-0089`).
+*   **Wniosek:** To są najważniejsze produkty dla zysku firmy. Każdy dzień braku tych produktów na stanie to bezpośrednia i wysoka strata finansowa.
+*   **Rekomendacja:** Priorytetyzacja dostaw dla tego segmentu oraz szczególne monitorowanie stanu tych produktów.
+
+**3. Optymalizacja Nadmiernych Zapasów (Overstocking)**
+*   **Obserwacja:** Zidentyfikowano grupę produktów (np. `PROD-0185`, `PROD-0424`, `PROD-0446`), dla których Days of Supply wynosi ~45 dni, podczas gdy czas dostawy (Lead Time) to zaledwie 7 dni.
+*   **Wniosek:** Firma utrzymuje nadmierny zapas bezpieczeństwa, który nie jest uzasadniony logistycznie.
+*   **Rekomendacja:** Redukcja poziomów zamówień dla tych SKU. Pozwoli to na uwolnienie zamrożonej gotówki bez ryzyka przerwania ciągłości sprzedaży.
+
+*   **Obserwacja:** Wykorzystując parametr What-If, oszacowano wpływ optymalizacji zapasów na Cash Flow.
+*   **Wniosek:** Redukcja zapasów o 10% (skupiona wyłącznie na produktach o najsłabszej rotacji) pozwoliłaby na uwolnienie około **$400,000**.
+
