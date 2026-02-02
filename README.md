@@ -58,12 +58,26 @@ Key modeling techniques used:
 *   **Operational Drill-down:** Detailed table highlighting SKUs with **High Days of Supply** vs. **Low Lead Time**.
 
 ### 7. Business Insights & Recommendations
-Preliminary analysis highlights key areas for optimization:
-1.  **Overstocking Risk:** Identified products (e.g., `PROD-0185`) with excessive coverage (**50 Days of Supply**) despite short replenishment cycles (**Lead Time: 7 days**).
-    *   *Recommendation:* Reduce safety stock for these SKUs to release immediate cash.
-2.  **Profitability Risk:** A cluster of products shows high turnover (8-12x) but critical margins (<6%).
-    *   *Recommendation:* Focus on renegotiating supplier costs (COGS) rather than liquidation, as demand is strong.
-3.  **Cash Release Potential:** A conservative 10% reduction in inventory for low-performing SKUs could release approx. **$400k** in working capital.
+The preliminary data analysis and quadrant visualization identified critical areas for optimizing the company's financial liquidity:
+
+**1. Profitability Management**
+*   **Observation:** The lower part of the chart (high turnover 8-12x, but margin < 6%) indicates products that generate high volume but low profit.
+*   **Conclusion:** These products place an operational burden on the warehouse (frequent receiving and shipping) without providing an adequate margin.
+*   **Recommendation:** Instead of clearance sales, the company should renegotiate purchase prices (COGS) with suppliers. High and stable order volume should be used as leverage during negotiations.
+
+**2. Strategic Product Protection**
+*   **Observation:** The upper-right quadrant (high turnover and high margin) contains key products (e.g., `PROD-0140`, `PROD-0194`, `PROD-0089`).
+*   **Conclusion:** These are the primary profit drivers. Any stockout of these items results in a direct and significant financial loss.
+*   **Recommendation:** Prioritize deliveries for this segment and implement rigorous stock level monitoring to ensure 100% availability.
+
+**3. Overstocking Optimization**
+*   **Observation:** A group of products (e.g., `PROD-0185`, `PROD-0424`, `PROD-0446`) was identified with **Days of Supply at ~45 days**, while the delivery time (**Lead Time**) is only **7 days**.
+*   **Conclusion:** The company maintains excessive safety stock that is not logistically justified.
+*   **Recommendation:** Reduce order quantities for these SKUs. This will release frozen cash without risking sales continuity.
+
+**4. Cash Flow Potential (Simulation)**
+*   **Observation:** Using the "What-If" parameter, the impact of inventory optimization on Cash Flow was estimated.
+*   **Conclusion:** A conservative **10% inventory reduction** (focused exclusively on products with the lowest turnover) would release approximately **$400,000** in working capital..
 
 ---
 
@@ -119,19 +133,19 @@ Wstępna analiza danych oraz wizualizacja w kwadrantach pozwoliła na zidentyfik
 **1. Zarządzanie Rentownością**
 *   **Obserwacja:** Dolna część wykresu (wysoka rotacja 8-12x, ale marża < 6%) wskazuje na produkty, które generują duży ruch, ale mniejszy zysk.
 *   **Wniosek:** Produkty te obciążają operacyjnie magazyn (częste przyjęcia i wydania), mogą nie dostarczać adekwatnej marży.
-*   **Rekomendacja:** Zamiast wyprzedaży, można podjąć renegocjacje cen zakupu (COGS) u dostawców. Argumentem w negocjacjach powinien być wysoki i stabilny wolumen zamówień.
+*   **Rekomendacja:** Zamiast wyprzedaży, należy podjąć renegocjacje cen zakupu (COGS) u dostawców. Argumentem w negocjacjach powinien być wysoki i stabilny wolumen zamówień.
 
 **2. Ochrona Produktów Strategicznych**
 *   **Obserwacja:** W prawym górnym kwadrancie (wysoka rotacja i wysoka marża) znajdują się kluczowe produkty (np. `PROD-0140`, `PROD-0194`, `PROD-0089`).
 *   **Wniosek:** To są najważniejsze produkty dla zysku firmy. Każdy dzień braku tych produktów na stanie to bezpośrednia i wysoka strata finansowa.
 *   **Rekomendacja:** Priorytetyzacja dostaw dla tego segmentu oraz szczególne monitorowanie stanu tych produktów.
 
-**3. Optymalizacja Nadmiernych Zapasów **
+**3. Optymalizacja Nadmiernych Zapasów**
 *   **Obserwacja:** Zidentyfikowano grupę produktów (np. `PROD-0185`, `PROD-0424`, `PROD-0446`), dla których Days of Supply wynosi ~45 dni, podczas gdy czas dostawy (Lead Time) to zaledwie 7 dni.
 *   **Wniosek:** Firma utrzymuje nadmierny zapas bezpieczeństwa, który nie jest uzasadniony logistycznie.
 *   **Rekomendacja:** Redukcja poziomów zamówień dla tych SKU. Pozwoli to na uwolnienie zamrożonej gotówki bez ryzyka przerwania ciągłości sprzedaży.
 
-      
+**4. Potencjał Uwolnienia Kapitału**
 *   **Obserwacja:** Wykorzystując parametr What-If, oszacowano wpływ optymalizacji zapasów na Cash Flow.
-*   **Wniosek:** Redukcja zapasów o 10% (skupiona wyłącznie na produktach o najsłabszej rotacji) pozwoliłaby na uwolnienie około **$400,000**.
+*   **Wniosek:** Konserwatywna redukcja zapasów o **10%** (skupiona wyłącznie na produktach o najsłabszej rotacji) pozwoliłaby na uwolnienie około **$400,000**.
 
