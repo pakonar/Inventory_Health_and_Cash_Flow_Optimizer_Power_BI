@@ -131,6 +131,7 @@ Wstępna analiza danych oraz wizualizacja w kwadrantach pozwoliła na zidentyfik
 *   **Wniosek:** Firma utrzymuje nadmierny zapas bezpieczeństwa, który nie jest uzasadniony logistycznie.
 *   **Rekomendacja:** Redukcja poziomów zamówień dla tych SKU. Pozwoli to na uwolnienie zamrożonej gotówki bez ryzyka przerwania ciągłości sprzedaży.
 
+
 *   **Obserwacja:** Wykorzystując parametr What-If, oszacowano wpływ optymalizacji zapasów na Cash Flow.
 *   **Wniosek:** Redukcja zapasów o 10% (skupiona wyłącznie na produktach o najsłabszej rotacji) pozwoliłaby na uwolnienie około **$400,000**.
 
