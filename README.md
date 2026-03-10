@@ -30,6 +30,7 @@ The dataset is synthetic, generated via Python scripts to simulate real-world **
     *   `03_Sales_Transactions.csv`: Daily sales register.
 
 ### 3. Data Architecture (Star Schema)
+![Dashboard Preview](assets/StarSchema.png)  
 The model follows the **Star Schema** methodology to ensure performance and intuitive navigation.
 *   **Fact Tables:**
     *   `Fact_Sales`: Daily sales transactions (Grain: Transaction/Day).
